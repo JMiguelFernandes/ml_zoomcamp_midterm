@@ -20,7 +20,7 @@ Training of the final model is done in the model_train.py script, and it is depl
 First of all, clone the repo by running the following command:
 
 ```
-git clone https://github.com/JMiguelFernandes/ml_zoomcamp_midterm
+git clone https://github.com/JMiguelFernandes/ml_zoomcamp_midterm.git
 ```
 
 In order to run these notebooks/scripts, you will need to have python installed, as well as jupyter notebook and a few extra packages. These are detailed in the Pipfile/Pipfile.lock files. To install all these packages, you can use pipenv to create a dedicated environment for this project. To do so, make sure you have pipenv installed; if not, just run the following: 
